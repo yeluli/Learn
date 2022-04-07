@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cao{
+	color: crimson;
+	font-size: 12px;
+}
+[title]{
+	color: fuchsia;
+}
+a:hover{
+	color: aqua;
+	font-size: 20px;
+}
+p:hover{
+	font-size: 20px;
+}
+p::selection{
+	background-color:yellowgreen;
+}
