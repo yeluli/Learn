@@ -22,7 +22,7 @@ p::selection{
 			/*
 			border: 3px solid red;
 			*/
-			border: 100%;
+			width: 1500px;
 			height: 400px;
 			
 		}
